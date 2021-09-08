@@ -20,4 +20,4 @@ const a= prompt('Один из просмотренный фильмов?',''),
 personalMovieDB.movies[a]= b;
 personalMovieDB.movies[c]= d;
 console.log(personalMovieDB);
-
+console.log();
